@@ -33,6 +33,8 @@ echo "Lines: $line_count"
 echo "Words: $word_count"
 echo "Characters: $char_count"
 ```
+### Output:
+![Alt text](Image_Output_of_the_tasks/Output_of_task8.jpg)
 
 ### How it works:
 1. **Check Argument**: The script checks if exactly one argument (the file) is provided.
