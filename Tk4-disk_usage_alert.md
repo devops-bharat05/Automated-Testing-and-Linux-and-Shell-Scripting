@@ -8,7 +8,7 @@
 #!/bin/bash
 
 # Set email details
-admin_email="admin@example.com"
+admin_email="bharatbhushan05@outlook.com"
 subject="Disk Usage Alert: Root Filesystem"
 message="Warning: Disk usage on the root filesystem has exceeded 80%."
 
