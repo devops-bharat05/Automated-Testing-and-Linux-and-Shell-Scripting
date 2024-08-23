@@ -1,4 +1,4 @@
-# Task4>> Disk Usage Alert: Write a script that checks the disk usage of the root filesystem. If the disk usage is above 80%, the script should send an email alert to the system administrator.
+## Task4>> Disk Usage Alert: Write a script that checks the disk usage of the root filesystem. If the disk usage is above 80%, the script should send an email alert to the system administrator.
 
 ### Bash script that checks the disk usage of the root filesystem and sends an email alert if the usage exceeds 80%. This script uses the `df` command to check disk usage and `mail` (or `mailx`) to send the email. You might need to install and configure an email utility if it’s not already set up on your system.
 
