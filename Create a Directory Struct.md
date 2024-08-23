@@ -1,4 +1,4 @@
-##Task1: Create a Directory Structure:
+## Task1: Create a Directory Structure:
 
 Write a script that creates the following directory structure:
 
