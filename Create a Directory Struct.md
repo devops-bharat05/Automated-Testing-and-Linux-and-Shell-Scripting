@@ -2,8 +2,8 @@
 #!/bin/bash
 
 # Define the main directory and subdirectories
-main_dir="main_directory"
-sub_dirs=("sub_dir1" "sub_dir2" "sub_dir3")
+main_dir="/home/user/"
+sub_dirs=("projects" "documents" "downloads")
 
 # Create the main directory
 mkdir -p "$main_dir"
