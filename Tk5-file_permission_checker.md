@@ -41,6 +41,8 @@ else
     echo "The file '$file' does not have execute permission."
 fi
 ```
+### Output:
+![Alt text](Image_Output_of_the_tasks/Output_of_task5.jpg)
 
 ### How it works:
 1. **Check Argument**: The script checks if exactly one argument (the file) is provided.
