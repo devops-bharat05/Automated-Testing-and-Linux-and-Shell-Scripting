@@ -48,6 +48,8 @@ processes_info=$(ps aux --sort=-%mem | head -n 20)
 
 echo "System information report has been saved to '$report_file'."
 ```
+### Output
+![Alt text](Image_Output_of_the_tasks/Output_of_Task9.jpg)
 
 ### How it works:
 1. **Define Report File**: Sets the name of the file where the report will be saved.
