@@ -1,4 +1,4 @@
-# Task5>> File Permission Checker: Write a script that takes a file as an argument and checks if the file has read, write, and execute permissions. The script should display appropriate messages for each permission.
+## Task5>> File Permission Checker: Write a script that takes a file as an argument and checks if the file has read, write, and execute permissions. The script should display appropriate messages for each permission.
 
 ### Bash script that takes a file as an argument and checks its permissions. The script will display messages indicating whether the file has read, write, and execute permissions.
 
