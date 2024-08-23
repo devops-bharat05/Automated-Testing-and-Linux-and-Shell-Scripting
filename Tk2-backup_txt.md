@@ -32,6 +32,8 @@ find "$src_dir" -maxdepth 1 -type f -name "*.txt" -exec cp {} "$backup_dir" \;
 
 echo "Backup of .txt files completed. Backup directory: $backup_dir"
 ```
+### Output
+![Alt text](Image_Output_of_the_tasks/Output_of_task2.jpg)
 
 ### How it works:
 1. **Check Argument**: The script checks if exactly one argument is provided and whether it's a valid directory.
