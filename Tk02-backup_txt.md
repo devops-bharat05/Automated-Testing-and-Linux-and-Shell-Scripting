@@ -1,4 +1,4 @@
-# Task2>> File Backups: Write a script that takes a directory as an argument and creates a backup of all `.txt` files in that directory. The backup files should be copied to a new directory named `backup` with a timestamp.
+## Task2>> File Backups: Write a script that takes a directory as an argument and creates a backup of all `.txt` files in that directory. The backup files should be copied to a new directory named `backup` with a timestamp.
 
 ### Bash script that takes a directory as an argument, creates a backup of all `.txt` files from that directory, and places the backup files into a new directory named `backup` with a timestamp:
 
