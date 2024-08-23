@@ -1,3 +1,22 @@
+###Task1: Create a Directory Structure:
+
+Write a script that creates the following directory structure:
+
+   /home/user/
+
+       ├── projects/
+
+       │   ├── project1/
+
+       │   ├── project2/
+
+       │   └── project3/
+
+       ├── documents/
+
+       └── downloads/
+
+
 ```bash
 #!/bin/bash
 
