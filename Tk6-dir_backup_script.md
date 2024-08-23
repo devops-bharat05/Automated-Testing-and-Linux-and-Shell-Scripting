@@ -8,8 +8,8 @@
 #!/bin/bash
 
 # Define directories and filenames
-source_dir="/home/user/documents"
-backup_dir="/home/user/backup"
+source_dir="/home/ec2-user/documents"
+backup_dir="/home/ec2-user/backup"
 backup_file="documents_backup.tar.gz"
 
 # Check if the source directory exists
@@ -46,13 +46,13 @@ fi
 ### Scheduling with Cron:
 To run this script daily, follow these steps:
 
-1. **Save the Script**: Save the script as `backup_script.sh`.
-2. **Make it Executable**: Run `chmod +x /path/to/backup_script.sh` to make the script executable.
+1. **Save the Script**: Save the script as `dir_backup_script.sh`.
+2. **Make it Executable**: Run `chmod +x /path/to/dir_backup_script.sh` to make the script executable.
 3. **Edit Crontab**: Open your crontab for editing with `crontab -e`.
 4. **Add Cron Job**: Add the following line to schedule the script to run daily at 2 AM:
 
     ```bash
-    0 2 * * * /path/to/backup_script.sh
+    0 2 * * * /path/to/dir_backup_script.sh
     ```
 
     Adjust the path to where you saved the script.
