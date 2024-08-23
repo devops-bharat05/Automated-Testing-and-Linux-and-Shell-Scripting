@@ -32,7 +32,7 @@ else
 fi
 ```
 ### Output
-![Alt text](/Outputoftask7.jpg)
+![Alt text](Image_Output_of_the_tasks/Outputoftask7.jpg)
 ### How it works:
 1. **Define Process and Log File**: Sets the name of the process to check and the path to the log file.
 2. **Log Function**: `log_message` writes timestamped log messages to the specified log file.
