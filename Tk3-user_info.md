@@ -20,6 +20,10 @@ echo "Home Directory: $home_directory"
 echo "Shell being used: $shell"
 ```
 
+### Output:
+![Alt text](Image_Output_of_the_tasks/Output_of_Task3.jpg)
+
+
 ### How it works:
 1. **Username**: The `whoami` command is used to get the current logged-in username.
 2. **User ID**: The `id -u` command retrieves the user ID.
