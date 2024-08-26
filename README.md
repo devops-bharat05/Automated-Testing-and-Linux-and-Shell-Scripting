@@ -1,6 +1,6 @@
 # Automated-Testing-and-Linux-and-Shell-Scripting
 
-#### Objective: This assignment is designed to test your proficiency in writing and understanding Bash scripts. Please write scripts to solve each of the following problems. Make sure your scripts are executable and well-documented with comments.
+##### Objective: This assignment is designed to test your proficiency in writing and understanding Bash scripts. Please write scripts to solve each of the following problems. Make sure your scripts are executable and well-documented with comments.
 
 1. File Backup: Write a script that takes a directory as an argument and creates a backup of all `.txt` files in that directory. The backup files should be copied to a new directory named `backup` with a timestamp.
 2. User Information: Write a script that displays the following information about the user: - Username - User ID - Group ID - Home Directory - Shell being used
