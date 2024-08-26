@@ -1,6 +1,6 @@
-## Task6>> Automated Backup: Write a script that compresses the /home/user/documents directory into a tarball named documents_backup.tar.gz and moves it to the /home/user/backup directory. This script should be scheduled to run daily using cron.
+#### Task6>> Automated Backup: Write a script that compresses the /home/user/documents directory into a tarball named documents_backup.tar.gz and moves it to the /home/user/backup directory. This script should be scheduled to run daily using cron.
 
-### Bash script that compresses the `/home/user/documents` directory into a tarball named `documents_backup.tar.gz` and moves it to the `/home/user/backup` directory. This script can be scheduled to run daily using cron.
+##### Bash script that compresses the `/home/user/documents` directory into a tarball named `documents_backup.tar.gz` and moves it to the `/home/user/backup` directory. This script can be scheduled to run daily using cron.
 
 ### Script:
 
