@@ -1,6 +1,6 @@
-## Task8>> Text File Analysis: Write a script that takes a text file as an argument and counts the number of lines, words, and characters in the file. The script should display the counts.
+#### Task8>> Text File Analysis: Write a script that takes a text file as an argument and counts the number of lines, words, and characters in the file. The script should display the counts.
 
-### Bash script that takes a text file as an argument and counts the number of lines, words, and characters in the file. The script will then display these counts.
+##### Bash script that takes a text file as an argument and counts the number of lines, words, and characters in the file. The script will then display these counts.
 
 ### Script:
 
