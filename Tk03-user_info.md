@@ -1,4 +1,4 @@
-### Task3>> Write a script that displays the following information about the user:   -Username   -User ID -Group ID -Home Directory   - Shell being used
+#### Task3>> Write a script that displays the following information about the user:   -Username   -User ID -Group ID -Home Directory   - Shell being used
 
 ##### Bash script to get the user details is as below:
 
