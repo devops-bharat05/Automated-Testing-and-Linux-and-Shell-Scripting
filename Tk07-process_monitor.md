@@ -1,6 +1,6 @@
-## Task7>> Process Monitor: Write a script that checks if a specific process (e.g., apache2) is running. If the process is not running, the script should start the process and log the action to a file.
+#### Task7>> Process Monitor: Write a script that checks if a specific process (e.g., apache2) is running. If the process is not running, the script should start the process and log the action to a file.
 
-### Bash script that checks if a specific process (e.g., `apache2`) is running. If the process is not running, the script starts it and logs the action to a file.
+##### Bash script that checks if a specific process (e.g., `apache2`) is running. If the process is not running, the script starts it and logs the action to a file.
 
 ### Script:
 
