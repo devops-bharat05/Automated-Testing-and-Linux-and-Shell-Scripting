@@ -1,6 +1,6 @@
-## Task10 >> Simple Calculator: Write a script that acts as a simple calculator. The script should prompt the user to enter two numbers and an operator (+, -, *, /) and then display the result of the operation.
+#### Task10 >> Simple Calculator: Write a script that acts as a simple calculator. The script should prompt the user to enter two numbers and an operator (+, -, *, /) and then display the result of the operation.
 
-## Bash script that acts as a simple calculator. It prompts the user to enter two numbers and an operator (+, -, *, /) and then displays the result of the operation.
+##### Bash script that acts as a simple calculator. It prompts the user to enter two numbers and an operator (+, -, *, /) and then displays the result of the operation.
 
 ### Script:
 
