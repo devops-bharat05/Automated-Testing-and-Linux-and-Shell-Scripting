@@ -1,6 +1,6 @@
-## Task9 >>  System Information Report: Write a script that generates a system information report. The report should include:- System uptime - Memory usage - CPU load - Disk usage - Running processes.  The report should be saved to a file named system_report.txt.
+#### Task9 >>  System Information Report: Write a script that generates a system information report. The report should include:- System uptime - Memory usage - CPU load - Disk usage - Running processes.  The report should be saved to a file named system_report.txt.
 
-### Bash script that generates a system information report and saves it to a file named `system_report.txt`. The report includes system uptime, memory usage, CPU load, disk usage, and running processes.
+##### Bash script that generates a system information report and saves it to a file named `system_report.txt`. The report includes system uptime, memory usage, CPU load, disk usage, and running processes.
 
 ### Script:
 
